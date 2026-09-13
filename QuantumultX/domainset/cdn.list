@@ -1,14 +1,14 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2026-09-12T11:16:54.211Z
-# Size: 4653
+# Last Updated: 2026-09-13T12:18:26.677Z
+# Size: 4661
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
 #
 # This file contains object storage and static assets CDN domains.
 #
-# $content-hash-v1$:QVNvhcIia1ozOsD3Ix3IE8hjfbZakr2t3022gEGeHso$
+# $content-hash-v1$:l5Hqzj709sMIrv4C1Zo57f6Y7kOeCNwTF7RyumPoKls$
 #########################################
 HOST,0x0.st,reject
 HOST,eep.io,reject
@@ -600,6 +600,7 @@ HOST-SUFFIX,4everland.io,reject
 HOST,aimg.fc2.com,reject
 HOST,ajax.cat.net,reject
 HOST-SUFFIX,apperoni.top,reject
+HOST-SUFFIX,axiom-cdn.io,reject
 HOST-SUFFIX,axis-cdn.net,reject
 HOST,b.peatio.com,reject
 HOST,b.sf-syn.com,reject
@@ -1060,6 +1061,7 @@ HOST-SUFFIX,stackblitz.io,reject
 HOST,static.dw.com,reject
 HOST,static.ffx.io,reject
 HOST,static.iyf.tv,reject
+HOST,static.jup.ag,reject
 HOST,static.k2s.cc,reject
 HOST,static.nrk.no,reject
 HOST,static.ui.com,reject
@@ -3078,6 +3080,8 @@ HOST,storageapi.fleek.co,reject
 HOST,sync.getpublica.com,reject
 HOST,tag.unifyintent.com,reject
 HOST,tags.nationwide.com,reject
+HOST,thumb.wikimedia.org,reject
+HOST,thumbnails.padre.gg,reject
 HOST,thumbs.onlyfans.com,reject
 HOST,thumbs2.sendvid.com,reject
 HOST,tile2.intervals.icu,reject
@@ -3292,6 +3296,7 @@ HOST,r2cdn.myshopline.com,reject
 HOST,rapid-cdn.yottaa.com,reject
 HOST,reload.getsentry.net,reject
 HOST,res-3.cdn.office.net,reject
+HOST,resources.redbull.tv,reject
 HOST,resources.whatwg.org,reject
 HOST,rs-cdn.splashtop.com,reject
 HOST,rules1.clearurls.xyz,reject
@@ -4127,6 +4132,7 @@ HOST,tiles.openrailwaymap.org,reject
 HOST,tools-static.wmflabs.org,reject
 HOST,typescript.azureedge.net,reject
 HOST,ubistatic2-a.ubisoft.com,reject
+HOST,ugc.production.linktr.ee,reject
 HOST,viu-static.akamaized.net,reject
 HOST,web-assets.zendesk.co.jp,reject
 HOST,wl-apps.yourwebsite.life,reject
@@ -4150,6 +4156,7 @@ HOST,cdn.privacy.paramount.com,reject
 HOST,cdn.registerdisney.go.com,reject
 HOST,changelog-widget.canny.io,reject
 HOST,chunk-composing.canva.com,reject
+HOST,coin-images.coingecko.com,reject
 HOST,components.justanswer.com,reject
 HOST,cors-proxy.htmldriven.com,reject
 HOST-SUFFIX,crashlytics2.l.google.com,reject
@@ -4322,6 +4329,7 @@ HOST,antiqua-ux-cdn.monotype.com,reject
 HOST,app-static-prod.posthog.com,reject
 HOST,article-image-ix.nikkei.com,reject
 HOST,assets.braintreegateway.com,reject
+HOST,assets.production.linktr.ee,reject
 HOST,assets.weather-forecast.com,reject
 HOST-SUFFIX,cdn-lfs-us-1.huggingface.co,reject
 HOST,cdn-live.foreignaffairs.com,reject

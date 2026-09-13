@@ -1,14 +1,14 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2026-09-12T11:16:54.211Z
-# Size: 4653
+# Last Updated: 2026-09-13T12:18:26.677Z
+# Size: 4661
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
 #
 # This file contains object storage and static assets CDN domains.
 #
-# $content-hash-v1$:woLz-_V2OTY2GEXzLmMar2woTHeGRybYcckOiYqxLAY$
+# $content-hash-v1$:cTN93KXDutXdbAi8ujtDVpmJfpZQgL1bEffasV_H-Mw$
 #########################################
 DOMAIN,0x0.st
 DOMAIN,eep.io
@@ -600,6 +600,7 @@ DOMAIN-SUFFIX,4everland.io
 DOMAIN,aimg.fc2.com
 DOMAIN,ajax.cat.net
 DOMAIN-SUFFIX,apperoni.top
+DOMAIN-SUFFIX,axiom-cdn.io
 DOMAIN-SUFFIX,axis-cdn.net
 DOMAIN,b.peatio.com
 DOMAIN,b.sf-syn.com
@@ -1060,6 +1061,7 @@ DOMAIN-SUFFIX,stackblitz.io
 DOMAIN,static.dw.com
 DOMAIN,static.ffx.io
 DOMAIN,static.iyf.tv
+DOMAIN,static.jup.ag
 DOMAIN,static.k2s.cc
 DOMAIN,static.nrk.no
 DOMAIN,static.ui.com
@@ -3078,6 +3080,8 @@ DOMAIN,storageapi.fleek.co
 DOMAIN,sync.getpublica.com
 DOMAIN,tag.unifyintent.com
 DOMAIN,tags.nationwide.com
+DOMAIN,thumb.wikimedia.org
+DOMAIN,thumbnails.padre.gg
 DOMAIN,thumbs.onlyfans.com
 DOMAIN,thumbs2.sendvid.com
 DOMAIN,tile2.intervals.icu
@@ -3292,6 +3296,7 @@ DOMAIN,r2cdn.myshopline.com
 DOMAIN,rapid-cdn.yottaa.com
 DOMAIN,reload.getsentry.net
 DOMAIN,res-3.cdn.office.net
+DOMAIN,resources.redbull.tv
 DOMAIN,resources.whatwg.org
 DOMAIN,rs-cdn.splashtop.com
 DOMAIN,rules1.clearurls.xyz
@@ -4127,6 +4132,7 @@ DOMAIN,tiles.openrailwaymap.org
 DOMAIN,tools-static.wmflabs.org
 DOMAIN,typescript.azureedge.net
 DOMAIN,ubistatic2-a.ubisoft.com
+DOMAIN,ugc.production.linktr.ee
 DOMAIN,viu-static.akamaized.net
 DOMAIN,web-assets.zendesk.co.jp
 DOMAIN,wl-apps.yourwebsite.life
@@ -4150,6 +4156,7 @@ DOMAIN,cdn.privacy.paramount.com
 DOMAIN,cdn.registerdisney.go.com
 DOMAIN,changelog-widget.canny.io
 DOMAIN,chunk-composing.canva.com
+DOMAIN,coin-images.coingecko.com
 DOMAIN,components.justanswer.com
 DOMAIN,cors-proxy.htmldriven.com
 DOMAIN-SUFFIX,crashlytics2.l.google.com
@@ -4322,6 +4329,7 @@ DOMAIN,antiqua-ux-cdn.monotype.com
 DOMAIN,app-static-prod.posthog.com
 DOMAIN,article-image-ix.nikkei.com
 DOMAIN,assets.braintreegateway.com
+DOMAIN,assets.production.linktr.ee
 DOMAIN,assets.weather-forecast.com
 DOMAIN-SUFFIX,cdn-lfs-us-1.huggingface.co
 DOMAIN,cdn-live.foreignaffairs.com

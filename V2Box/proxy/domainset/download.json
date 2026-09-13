@@ -203,6 +203,7 @@
       "disks.webvm.io",
       "dl.devmate.com",
       "dl.flathub.org",
+      "dl.gl-inet.com",
       "dl.nssurge.com",
       "dl.pikpak.site",
       "dl2.osmand.net",
@@ -406,8 +407,7 @@
       "debian.volia.net",
       "dl.cloudsmith.io",
       "dl.getaurora.dev",
-      "dl.tailscale.com",
-      "dl.thorium.rocks"
+      "dl.tailscale.com"
     ]
   },
   {
@@ -419,6 +419,7 @@
     "remark": "ClientRuleSet domainset/download · DOMAIN 2 · proxy",
     "isEnable": true,
     "list": [
+      "dl.thorium.rocks",
       "down.filen-1.net",
       "down.filen-2.net",
       "down.filen-3.net",
@@ -817,8 +818,7 @@
       "kali.cs.nycu.edu.tw",
       "launcher.mojang.com",
       "lethe.chinstrap.org",
-      "level3.blizzard.com",
-      "lidsol.fi-b.unam.mx"
+      "level3.blizzard.com"
     ]
   },
   {
@@ -830,6 +830,7 @@
     "remark": "ClientRuleSet domainset/download · DOMAIN 3 · proxy",
     "isEnable": true,
     "list": [
+      "lidsol.fi-b.unam.mx",
       "maven.neoforged.net",
       "merlin.fit.vutbr.cz",
       "mirror-cdn.xtom.com",
@@ -1228,8 +1229,7 @@
       "mirror.math.ucdavis.edu",
       "mirror.nbtelecom.com.br",
       "mirror.nl.altushost.com",
-      "mirror.primelink.net.id",
-      "mirror.tw.ossplanet.net"
+      "mirror.primelink.net.id"
     ]
   },
   {
@@ -1241,6 +1241,7 @@
     "remark": "ClientRuleSet domainset/download · DOMAIN 4 · proxy",
     "isEnable": true,
     "list": [
+      "mirror.tw.ossplanet.net",
       "mirror.us.oneandone.net",
       "mirrors.arpnetworks.com",
       "mirrors.binaryracks.com",

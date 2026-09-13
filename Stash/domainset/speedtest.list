@@ -1,14 +1,14 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2026-09-12T11:16:52.994Z
-# Size: 3382
+# Last Updated: 2026-09-13T12:18:25.431Z
+# Size: 3383
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
 #
 # This file contains common speedtest endpoints.
 #
-# $content-hash-v1$:JDIvPpznIrhuJwrCCq0lDU6uO-oRgGQjz5FILUbJamQ$
+# $content-hash-v1$:qYTb_z76c7lSXaplGgyyAHWFEqy5EJtesEQspgXmhbQ$
 #########################################
 +.fast.com
 fastme.ir
@@ -722,6 +722,7 @@ speedtest.n4uspl.net
 speedtest.neitel.net
 speedtest.netafy.com
 speedtest.nethiz.net
+speedtest.netpool.in
 speedtest.netrack.ru
 speedtest.oopaya.com
 speedtest.quadro.net

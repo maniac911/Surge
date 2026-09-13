@@ -796,6 +796,7 @@
       "regexp:(^|\\.)bitfinex\\.com$",
       "regexp:(^|\\.)blizzard\\.com$",
       "regexp:(^|\\.)blogblog\\.com$",
+      "regexp:(^|\\.)boxcloud\\.com$",
       "regexp:(^|\\.)broadcom\\.com$",
       "regexp:(^|\\.)cachefly\\.net$",
       "regexp:(^|\\.)capitalg\\.com$",
@@ -835,8 +836,7 @@
       "regexp:(^|\\.)gofundme\\.com$",
       "regexp:(^|\\.)grammarly\\.io$",
       "regexp:(^|\\.)hanimeone\\.me$",
-      "regexp:(^|\\.)hqporner\\.com$",
-      "regexp:(^|\\.)huffpost\\.com$"
+      "regexp:(^|\\.)hqporner\\.com$"
     ]
   },
   {
@@ -848,6 +848,7 @@
     "remark": "ClientRuleSet non_ip/global · DOMAIN-SUFFIX 3 · direct",
     "isEnable": true,
     "list": [
+      "regexp:(^|\\.)huffpost\\.com$",
       "regexp:(^|\\.)iboysoft\\.com$",
       "regexp:(^|\\.)idcflare\\.com$",
       "regexp:(^|\\.)iloveimg\\.com$",
@@ -1246,8 +1247,7 @@
       "regexp:(^|\\.)line-apps-beta\\.com$",
       "regexp:(^|\\.)minecraftforum\\.net$",
       "regexp:(^|\\.)opencollective\\.com$",
-      "regexp:(^|\\.)redtubepremium\\.com$",
-      "regexp:(^|\\.)rottentomatoes\\.com$"
+      "regexp:(^|\\.)redtubepremium\\.com$"
     ]
   },
   {
@@ -1259,6 +1259,7 @@
     "remark": "ClientRuleSet non_ip/global · DOMAIN-SUFFIX 4 · direct",
     "isEnable": true,
     "list": [
+      "regexp:(^|\\.)rottentomatoes\\.com$",
       "regexp:(^|\\.)smartmailcloud\\.com$",
       "regexp:(^|\\.)steamcommunity\\.com$",
       "regexp:(^|\\.)thefreelibrary\\.com$",

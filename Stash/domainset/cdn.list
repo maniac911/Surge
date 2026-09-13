@@ -1,14 +1,14 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2026-09-12T11:16:54.211Z
-# Size: 4653
+# Last Updated: 2026-09-13T12:18:26.677Z
+# Size: 4661
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
 #
 # This file contains object storage and static assets CDN domains.
 #
-# $content-hash-v1$:p12ePZ0_eaU8J4JfL34CobDlA-yeM8fXZPYwECh2iaE$
+# $content-hash-v1$:TXV8cIwf6typijzOGf3MOI8yfR6UjTcrSdOV7EICZi8$
 #########################################
 0x0.st
 eep.io
@@ -600,6 +600,7 @@ zzz.wxw.moe
 aimg.fc2.com
 ajax.cat.net
 +.apperoni.top
++.axiom-cdn.io
 +.axis-cdn.net
 b.peatio.com
 b.sf-syn.com
@@ -1060,6 +1061,7 @@ st6-20.vk.com
 static.dw.com
 static.ffx.io
 static.iyf.tv
+static.jup.ag
 static.k2s.cc
 static.nrk.no
 static.ui.com
@@ -3078,6 +3080,8 @@ storageapi.fleek.co
 sync.getpublica.com
 tag.unifyintent.com
 tags.nationwide.com
+thumb.wikimedia.org
+thumbnails.padre.gg
 thumbs.onlyfans.com
 thumbs2.sendvid.com
 tile2.intervals.icu
@@ -3292,6 +3296,7 @@ r2cdn.myshopline.com
 rapid-cdn.yottaa.com
 reload.getsentry.net
 res-3.cdn.office.net
+resources.redbull.tv
 resources.whatwg.org
 rs-cdn.splashtop.com
 rules1.clearurls.xyz
@@ -4127,6 +4132,7 @@ tiles.openrailwaymap.org
 tools-static.wmflabs.org
 typescript.azureedge.net
 ubistatic2-a.ubisoft.com
+ugc.production.linktr.ee
 viu-static.akamaized.net
 web-assets.zendesk.co.jp
 wl-apps.yourwebsite.life
@@ -4150,6 +4156,7 @@ cdn.privacy.paramount.com
 cdn.registerdisney.go.com
 changelog-widget.canny.io
 chunk-composing.canva.com
+coin-images.coingecko.com
 components.justanswer.com
 cors-proxy.htmldriven.com
 +.crashlytics2.l.google.com
@@ -4322,6 +4329,7 @@ antiqua-ux-cdn.monotype.com
 app-static-prod.posthog.com
 article-image-ix.nikkei.com
 assets.braintreegateway.com
+assets.production.linktr.ee
 assets.weather-forecast.com
 +.cdn-lfs-us-1.huggingface.co
 cdn-live.foreignaffairs.com

@@ -1,14 +1,14 @@
 #########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2026-09-12T11:16:53.239Z
-# Size: 1269
+# Last Updated: 2026-09-13T12:18:25.662Z
+# Size: 1270
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
 #
 # This file contains rules for services that are NOT available inside the Mainland China.
 #
-# $content-hash-v1$:YRCEhOEgaOSK_A0px4Ye8oXY5tdW8y5HpN2m-sQrEUE$
+# $content-hash-v1$:fpjT_HkxLAqJGCTUYKxESyDVR6KmrRuhaEzAYQAPsDg$
 #########################################
 HOST-SUFFIX,ac,reject
 HOST-SUFFIX,ai,reject
@@ -769,6 +769,7 @@ HOST-SUFFIX,bitchute.com,reject
 HOST-SUFFIX,bitfinex.com,reject
 HOST-SUFFIX,blizzard.com,reject
 HOST-SUFFIX,blogblog.com,reject
+HOST-SUFFIX,boxcloud.com,reject
 HOST-SUFFIX,broadcom.com,reject
 HOST-SUFFIX,cachefly.net,reject
 HOST-SUFFIX,capitalg.com,reject

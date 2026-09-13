@@ -1,14 +1,14 @@
 #########################################
 # Sukka's Ruleset - Large Files Hosting Domains
-# Last Updated: 2026-09-12T11:16:54.212Z
-# Size: 1966
+# Last Updated: 2026-09-13T12:18:26.679Z
+# Size: 1967
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
 #
 # This file contains domains for software updating & large file hosting.
 #
-# $content-hash-v1$:mRo-GUKDEsAKl-r7QFNcs5KSg6QJdmaVieGR31ZIg2E$
+# $content-hash-v1$:rZRnshtXcG7KxTNXxQRd9Gjf8yC-AzkW-LzR_-bxKZA$
 #########################################
 +.gcr.io
 ghp.ci
@@ -252,6 +252,7 @@ debian.mnet.bg
 disks.webvm.io
 dl.devmate.com
 dl.flathub.org
+dl.gl-inet.com
 dl.nssurge.com
 dl.pikpak.site
 dl2.osmand.net
